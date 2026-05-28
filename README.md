@@ -17,6 +17,8 @@
 
 </div>
 
+---
+
 ## 📬 Contact
 
 | Platform | Details |
@@ -55,6 +57,7 @@ I am passionate about communicating findings in a simple, clear way — both to 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
+---
 
 ### 🤝 Soft Skills
 - 📌 Data Storytelling
@@ -62,6 +65,8 @@ I am passionate about communicating findings in a simple, clear way — both to 
 - 📌 Business Acumen
 - 📌 Stakeholder Communication
 - 📌 Problem Solving
+
+---
 
 ## 💼 Experience
 
@@ -80,6 +85,8 @@ I am passionate about communicating findings in a simple, clear way — both to 
 - Used CRM (Salesforce) to manage client relationships, enabling more effective tracking of sales opportunities and increasing business closings by 18%.
 - Implemented digital marketing strategies using email marketing tools such as MailChimp, successfully increasing customer engagement and generating greater client interest in products and services by 23%.
 - Delivered metrics presentations that helped close high-value contracts by 25%.
+
+---
 
 
 ## 🎓 Studies
