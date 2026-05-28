@@ -3,7 +3,9 @@
 <!-- PROFILE PHOTO -->
 <!-- Replace the URL below with your own photo link -->
 
+  <div align="center">
   <img src="IMG_6209_2.jpg" alt="Profile Photo" width="200" height="200" style="border-radius: 50%; object-fit: cover;" />
+</div>
 
 # Your Name
 ### BI & Data Analyst
