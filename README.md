@@ -24,7 +24,7 @@
 | 📧 Email | yovier.cruz@gmail.com |
 | 💼 LinkedIn | [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yovier-cruz-lleras/) |
 | 🌐 Portfolio | [yourportfolio.com](https://github.com/Yovier/yovier.github.io) |
-| 📍 Location | City, Country |
+| 📍 Location | Mexico |
 
 ---
 
@@ -53,9 +53,8 @@ I am passionate about communicating findings in a simple, clear way — both to 
 ### 💻 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
 
 ### 🤝 Soft Skills
 - 📌 Data Storytelling
@@ -64,28 +63,24 @@ I am passionate about communicating findings in a simple, clear way — both to 
 - 📌 Stakeholder Communication
 - 📌 Problem Solving
 
----
-
 ## 💼 Experience
 
-### 📌 Job Title — Company Name
-**📅 Month Year – Present | 📍 City, Country**
+### 📌 Business Analyst — Innova Solutions
+**📅  2018 – 2024 | 📍 Puerto Rico**
 
-- Analyzed business data and built interactive dashboards using Power BI and Tableau.
-- Wrote and optimized SQL queries to extract, clean, and transform data from large databases.
-- Collaborated with stakeholders to define KPIs and translate business needs into data solutions.
-- Automated reporting processes using Python, reducing manual work by X%.
+- Development of interactive dashboards in Power BI for monitoring strategic KPIs, optimizing the analysis process by 15%.
+- Extraction, cleaning, and analysis of data with SQL to support financial decisions, reducing costs by 20%.
+- Implementation of predictive models with Python and R for identifying sales opportunities by 25%.
+- Automation of reports using tools such as Claude and SQL, improving the efficiency of the analytics area by 30%.
 
----
 
-### 📌 Job Title — Company Name
-**📅 Month Year – Month Year | 📍 City, Country**
+### 📌 Sales Analyst — Fuller Group
+**📅 2015 – 2017 | 📍 Puerto Rico**
 
-- Supported data collection, cleaning, and visualization efforts for the business intelligence team.
-- Developed Excel-based reports and dashboards distributed to management.
-- Assisted in migrating reporting workflows to Google BigQuery.
+- Used CRM (Salesforce) to manage client relationships, enabling more effective tracking of sales opportunities and increasing business closings by 18%.
+- Implemented digital marketing strategies using email marketing tools such as MailChimp, successfully increasing customer engagement and generating greater client interest in products and services by 23%.
+- Delivered metrics presentations that helped close high-value contracts by 25%.
 
----
 
 ## 🎓 Studies
 
