@@ -30,7 +30,7 @@
 
 ## 👤 About Me
 
-I am obssed to solve problems and telling stories through data analytics and visualizations. During my professional journey in business administration and data analysis, I have had the opportunity to develop the skills needed to extract the most important insights from databases, reports, and other data sources.
+I am BI and Data Analyst with six years of experience and obssed to solve problems and telling stories through data analytics and visualizations. During my professional journey in business administration and data analysis, I have had the opportunity to develop the skills needed to extract the most important insights from databases, reports, and other data sources.
 
 I am passionate about communicating findings in a simple, clear way — both to stakeholders and to technical colleagues. I am committed to continuously learning the latest analytics tools and putting knowledge into practice.
 
@@ -84,15 +84,13 @@ I am passionate about communicating findings in a simple, clear way — both to 
 
 ## 🎓 Studies
 
-### 🏫 Degree Name — University / Institution
-**📅 Year – Year | 📍 City, Country**
-- Major: Business Administration / Data Analysis *(adjust as needed)*
+### 🏫 Master's Degree in Business Intelligence — Full Sail University 
+**📍 Florida, United States of America**
 - Relevant coursework: Statistics, Database Management, Business Intelligence
 
----
 
-### 🏫 Additional Course or Bootcamp — Institution
-**📅 Year – Year**
+### 🏫 Blachelor's Degree in Business Administration — Full Sail University
+**📍 Florida, United States of America **
 - Focus: Data Analytics / Business Intelligence
 
 ---
@@ -101,11 +99,11 @@ I am passionate about communicating findings in a simple, clear way — both to 
 
 | Badge | Certification | Issuer | Year |
 |-------|--------------|--------|------|
-| 📜 | Google Data Analytics Professional Certificate | Google / Coursera | 202X |
-| 📜 | Microsoft Power BI Data Analyst (PL-300) | Microsoft | 202X |
-| 📜 | Tableau Desktop Specialist | Tableau | 202X |
-| 📜 | SQL for Data Science | UC Davis / Coursera | 202X |
-| 📜 | Python for Everybody | University of Michigan | 202X |
+| 📜 | Google Data Analytics Professional Certificate | Google / Coursera | 2024 |
+| 📜 | Entrepreneurship in Strategy for Data Scientists and Expert Analysts | LinkedIn | 2023 |
+| 📜 | Researching and Informing with Generative AI | LinkedIn | 2023 |
+| 📜 | Microsoft Power BI | LinkedIn | 2022 |
+| 📜 | Fundamentals of Data Analysis | LinkedIn | 20222 |
 
 > *(Replace with your actual certifications and add links if available)*
 
@@ -120,7 +118,6 @@ I am passionate about communicating findings in a simple, clear way — both to 
 
 </div>
 
----
 
 <div align="center">
 
