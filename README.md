@@ -5,7 +5,7 @@
 
   <img src="IMG_6209 2.jpg" alt="Profile Photo" width="200" height="200" style="border-radius: 50%; object-fit: cover;" />
 
-# Your Name
+# Yovier Francisco Cruz Lleras
 ### BI & Data Analyst
 
 *Turning raw data into powerful business decisions*
@@ -16,14 +16,13 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yourprofile)
 
 </div>
----
 
 ## 📬 Contact
 
 | Platform | Details |
 |----------|---------|
-| 📧 Email | youremail@example.com |
-| 💼 LinkedIn | [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) |
+| 📧 Email | yovier.cruz@gmail.com |
+| 💼 LinkedIn | [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yovier-cruz-lleras/) |
 | 🌐 Portfolio | [yourportfolio.com](https://yourportfolio.com) |
 | 📍 Location | City, Country |
 
@@ -31,7 +30,7 @@
 
 ## 👤 About Me
 
-I love solving problems and telling stories through data analytics and visualizations. During my professional journey in business administration and data analysis, I have had the opportunity to develop the skills needed to extract the most important insights from databases, reports, and other data sources.
+I am obssed to solve problems and telling stories through data analytics and visualizations. During my professional journey in business administration and data analysis, I have had the opportunity to develop the skills needed to extract the most important insights from databases, reports, and other data sources.
 
 I am passionate about communicating findings in a simple, clear way — both to stakeholders and to technical colleagues. I am committed to continuously learning the latest analytics tools and putting knowledge into practice.
 
