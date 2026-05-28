@@ -2,7 +2,9 @@
 
 <!-- PROFILE PHOTO -->
 <!-- Replace the URL below with your own photo link -->
-<img src="https://via.placeholder.com/150" alt="Profile Photo" width="150" height="150" style="border-radius: 50%;" />
+<div align="center">
+  <img src="IMG_6209_2.jpg" alt="Profile Photo" width="150" height="150" style="border-radius: 50%;" />
+</div>
 
 # Your Name
 ### BI & Data Analyst
