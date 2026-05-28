@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <!-- PROFILE PHOTO -->
 <!-- Replace the URL below with your own photo link -->
