@@ -3,7 +3,7 @@
 <!-- PROFILE PHOTO -->
 <!-- Replace the URL below with your own photo link -->
 
-  <img src="IMG_6209 2.jpg" alt="Profile Photo" width="200" height="200" style="border-radius: 50%; object-fit: cover;" />
+  <img src="IMG_6209 2.jpg" alt="Profile Photo" width="200" height="300" style="border-radius: 50%; object-fit: cover;" />
 
 # Yovier Francisco Cruz Lleras
 ### BI & Data Analyst
