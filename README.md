@@ -113,8 +113,9 @@ I am passionate about communicating findings in a simple, clear way — both to 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=default&hide_border=true)
 
 </div>
 
