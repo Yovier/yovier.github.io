@@ -3,10 +3,10 @@
 <!-- PROFILE PHOTO -->
 <!-- Replace the URL below with your own photo link -->
 <div align="center">
-  <img src="IMG_6209_2.jpg" alt="Profile Photo" width="150" height="150" style="border-radius: 50%;" />
+  <img src="profile.jpg" alt="Profile Photo" width="150" height="150" style="border-radius: 50%;" />
 </div>
 
-# Your Name
+# Yovier Cruz Lleras
 ### BI & Data Analyst
 
 *Turning raw data into powerful business decisions*
