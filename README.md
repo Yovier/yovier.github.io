@@ -110,7 +110,7 @@ I am passionate about communicating findings in a simple, clear way — both to 
 | 📜 | Entrepreneurship in Strategy for Data Scientists and Expert Analysts | LinkedIn | 2023 |
 | 📜 | Researching and Informing with Generative AI | LinkedIn | 2023 |
 | 📜 | Microsoft Power BI | LinkedIn | 2022 |
-| 📜 | Fundamentals of Data Analysis | LinkedIn | 20222 |
+| 📜 | Fundamentals of Data Analysis | LinkedIn | 2022 |
 
 > *(Replace with your actual certifications and add links if available)*
 
