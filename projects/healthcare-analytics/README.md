@@ -70,3 +70,9 @@ Readmission comparisons may also be influenced by patient characteristics, diagn
 ## Project Status
 
 The initial Python exploratory analysis and data-quality review are complete. Further work can extend the investigation of financial anomalies and readmissions, and connect these findings to the Power BI reporting layer.
+
+## Python Notebook
+
+Explore the complete Python analysis, including data quality validation, exploratory analysis, clinical outcome metrics, readmission analysis, and visualizations.
+
+**[View the Python Data Quality Analysis Notebook](./01_Healthcare_Data_Quality_Analysis.ipynb)**
