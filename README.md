@@ -26,7 +26,7 @@
 | 📧 Email | yovier.cruz@gmail.com |
 | 💼 LinkedIn | [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yovier-cruz-lleras/) |
 | 🌐 Portfolio | [yourportfolio.com](https://github.com/Yovier/yovier.github.io) |
-| 📍 Location | Mexico |
+| 📍 Location | United States of America |
 
 ---
 
