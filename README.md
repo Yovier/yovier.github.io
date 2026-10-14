@@ -97,7 +97,7 @@ I am passionate about communicating findings in a simple, clear way — both to 
 
 
 ### 🏫 Blachelor's Degree in Business Administration — Full Sail University
-**📍 Florida, United States of America **
+**📍 Florida, United States of America** 
 - Focus: Data Analytics / Business Intelligence
 
 ---
@@ -130,6 +130,28 @@ I am passionate about communicating findings in a simple, clear way — both to 
 <div align="center">
 
 *Thanks for visiting my profile! Feel free to reach out — let's connect and talk data.* 🚀
+
+
+---
+
+## Featured Projects
+
+### 1. Healthcare Data Quality & Analytics
+
+An end-to-end healthcare analytics project analyzing 100,000 encounter records to investigate data quality, clinical outcomes, and 30-day readmissions.
+
+**Tools:** SQL, PostgreSQL, Supabase, Python, Pandas, NumPy, Matplotlib, Power BI, and DAX.
+
+- [Project Overview and Key Findings](./projects/healthcare-analytics/README.md)
+- [View Python Analysis Notebook](./projects/healthcare-analytics/01_Healthcare_Data_Quality_Analysis.ipynb)
+
+### 2. Business Profitability Diagnostic
+
+An interactive application designed to support business profitability analysis and financial decision-making.
+
+**Technology:** HTML.
+
+- [View Project on GitHub](https://github.com/Yovier/diagnostico-rentabilidad)
 
 </div>
 
