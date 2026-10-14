@@ -151,7 +151,7 @@ An interactive application designed to support business profitability analysis a
 
 **Technology:** HTML.
 
-- [View Project on GitHub](https://github.com/Yovier/diagnostico-rentabilidad)
+- [View Project on GitHub](https://yovier.github.io/diagnostico-rentabilidad/)
 
 </div>
 
