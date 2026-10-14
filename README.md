@@ -143,7 +143,7 @@ An end-to-end healthcare analytics project analyzing 100,000 encounter records t
 **Tools:** SQL, PostgreSQL, Supabase, Python, Pandas, NumPy, Matplotlib, Power BI, and DAX.
 
 - [Project Overview and Key Findings](./projects/healthcare-analytics/README.md)
-- [View Python Analysis Notebook](./projects/healthcare-analytics/01_Healthcare_Data_Quality_Analysis.ipynb)
+- [View Python Analysis Notebook](./projects/healthcare-analytics/02_Healthcare_Data_Quality_Analysis.ipynb)
 
 ### 2. Business Profitability Diagnostic
 
