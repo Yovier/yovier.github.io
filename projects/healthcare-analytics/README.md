@@ -75,4 +75,4 @@ The initial Python exploratory analysis and data-quality review are complete. Fu
 
 Explore the complete Python analysis, including data quality validation, exploratory analysis, clinical outcome metrics, readmission analysis, and visualizations.
 
-**[View the Python Data Quality Analysis Notebook](./01_Healthcare_Data_Quality_Analysis.ipynb)**
+**[View the Python Data Quality Analysis Notebook](./02_Healthcare_Data_Quality_Analysis.ipynb)**
