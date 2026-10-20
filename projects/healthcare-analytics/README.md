@@ -81,6 +81,16 @@ Explore the complete Python analysis, including data quality validation, explora
 
 The Power BI report includes two interactive report pages designed to analyze healthcare performance, clinical outcomes, and operational indicators.
 
+### Dashboard Previews
+
+#### Executive Healthcare Overview
+
+![Executive Healthcare Overview](./healthcare-overview.png.png)
+
+#### Clinical & Operational Analysis
+
+![Clinical and Operational Analysis](./clinical-operational-analysis.png)
+
 ### 1. Executive Healthcare Overview
 
 Provides a high-level overview of healthcare encounters, patient volume, total costs, average cost per encounter, and length of stay. Visualizations explore clinical outcome distribution, encounters by insurance type and region, and cost patterns by diagnosis.
