@@ -150,7 +150,9 @@ An end-to-end healthcare analytics project analyzing 100,000 encounter records t
 
 **Project Documentation**
 
-**Power BI Report:** [Download the Power BI Report (.pbix)](./projects/healthcare-analytics/Health_Analytics_BI_Portfolio.pbix)
+**Power BI Report:** 
+
+[Download the Power BI Report (.pbix)](./projects/healthcare-analytics/Health_Analytics_BI_Portfolio.pbix)
 
 [Project Overview and Key Findings](./projects/healthcare-analytics/README.md)
 
