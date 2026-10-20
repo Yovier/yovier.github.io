@@ -150,8 +150,11 @@ An end-to-end healthcare analytics project analyzing 100,000 encounter records t
 
 **Project Documentation**
 
-- [Project Overview and Key Findings](./projects/healthcare-analytics/README.md)
-- [View Python Data Quality Analysis Notebook](./projects/healthcare-analytics/06_Healthcare_Data_Quality_Analysis.ipynb)
+**Power BI Report:** [Download the Power BI Report (.pbix)](./projects/healthcare-analytics/Health_Analytics_BI_Portfolio.pbix)
+
+[Project Overview and Key Findings](./projects/healthcare-analytics/README.md)
+
+[View Python Data Quality Analysis Notebook](./projects/healthcare-analytics/06_Healthcare_Data_Quality_Analysis.ipynb)
 
 ### 2. Business Profitability Diagnostic
 
