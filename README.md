@@ -138,12 +138,20 @@ I am passionate about communicating findings in a simple, clear way — both to 
 
 ### 1. Healthcare Data Quality & Analytics
 
-An end-to-end healthcare analytics project analyzing 100,000 encounter records to investigate data quality, clinical outcomes, and 30-day readmissions.
+An end-to-end healthcare analytics project analyzing 100,000 encounter records to investigate data quality, clinical outcomes, operational performance, and 30-day readmissions.
 
 **Tools:** SQL, PostgreSQL, Supabase, Python, Pandas, NumPy, Matplotlib, Power BI, and DAX.
 
+**Power BI Dashboards**
+
+- [Executive Healthcare Overview — Preview](./projects/healthcare-analytics/executive-healthcare-overview.png)
+- [Clinical & Operational Analysis — Preview](./projects/healthcare-analytics/clinical-operational-analysis.png)
+- [Download Power BI Report (.pbix)](./projects/healthcare-analytics/Health_Analytics_BI_Portfolio.pbix)
+
+**Project Documentation**
+
 - [Project Overview and Key Findings](./projects/healthcare-analytics/README.md)
-- [View Python Analysis Notebook](./projects/healthcare-analytics/06_Healthcare_Data_Quality_Analysis.ipynb)
+- [View Python Data Quality Analysis Notebook](./projects/healthcare-analytics/06_Healthcare_Data_Quality_Analysis.ipynb)
 
 ### 2. Business Profitability Diagnostic
 
