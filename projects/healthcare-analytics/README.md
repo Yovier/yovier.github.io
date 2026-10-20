@@ -85,7 +85,7 @@ The Power BI report includes two interactive report pages designed to analyze he
 
 #### Executive Healthcare Overview
 
-![Executive Healthcare Overview](./healthcare-overview.png.png)
+![Executive Healthcare Overview](./healthcare-overview.png)
 
 #### Clinical & Operational Analysis
 
