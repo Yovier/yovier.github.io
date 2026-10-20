@@ -76,3 +76,21 @@ The initial Python exploratory analysis and data-quality review are complete. Fu
 Explore the complete Python analysis, including data quality validation, exploratory analysis, clinical outcome metrics, readmission analysis, and visualizations.
 
 **[View the Python Data Quality Analysis Notebook](./06_Healthcare_Data_Quality_Analysis.ipynb)**
+
+## Power BI Dashboards
+
+The Power BI report includes two interactive report pages designed to analyze healthcare performance, clinical outcomes, and operational indicators.
+
+### 1. Executive Healthcare Overview
+
+Provides a high-level overview of healthcare encounters, patient volume, total costs, average cost per encounter, and length of stay. Visualizations explore clinical outcome distribution, encounters by insurance type and region, and cost patterns by diagnosis.
+
+### 2. Clinical & Operational Analysis
+
+Examines 30-day readmission rates by insurance type, region, and diagnosis. Additional visualizations explore patient satisfaction by clinical outcome, average length of stay by region, and total healthcare costs by region.
+
+### Power BI Report
+
+[Download the Power BI Report (.pbix)](./Health_Analytics_BI_Portfolio.pbix)
+
+**Tools:** Power BI Desktop, DAX, PostgreSQL, and Supabase.
