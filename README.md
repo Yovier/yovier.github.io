@@ -146,7 +146,7 @@ An end-to-end healthcare analytics project analyzing 100,000 encounter records t
 
 ![Executive Healthcare Overview](./projects/healthcare-analytics/executive-healthcare-overview.png)
 ![Clinical & Operational Analysis](./projects/healthcare-analytics/clinical-operational-analysis.png)
-- [Download Power BI Report (.pbix)](./projects/healthcare-analytics/Health_Analytics_BI_Portfolio.pbix)
+ [Download Power BI Report (.pbix)](./projects/healthcare-analytics/Health_Analytics_BI_Portfolio.pbix)
 
 **Project Documentation**
 
