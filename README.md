@@ -162,19 +162,19 @@ An interactive application designed to support business profitability analysis a
 
 **Technology:** HTML.
 
-- [View Project on GitHub](https://yovier.github.io/diagnostico-rentabilidad/)
+ [View Project on GitHub](https://yovier.github.io/diagnostico-rentabilidad/)
 
-- ### 3. Business Profitability Diagnostic
+ ### 3. Business Profitability Diagnostic
 
 An interactive web application designed to help small businesses and independent professionals assess profitability, overdue receivables, customer concentration, and billable time.
 
 **Technologies:** HTML, CSS, JavaScript.
 
-- **[Live Application](https://yovier.github.io/diagnostico-rentabilidad/diagnostico-rentabilidad.html)**
-- **[Landing Page](https://yovier.github.io/diagnostico-rentabilidad/)**
-- **[GitHub Repository](https://github.com/Yovier/diagnostico-rentabilidad)**
-- **[Landing Page Source Code](https://github.com/Yovier/diagnostico-rentabilidad/blob/main/Business_Profitability_Diagnostic_Landing_Page_Source.ipynb)**
-- **[Diagnostic Tool Source Code](https://github.com/Yovier/diagnostico-rentabilidad/blob/main/Business_Profitability_Diagnostic_Tool_Source.ipynb)**
+  **[Live Application](https://yovier.github.io/diagnostico-rentabilidad/diagnostico-rentabilidad.html)**
+  **[Landing Page](https://yovier.github.io/diagnostico-rentabilidad/)**
+  **[GitHub Repository](https://github.com/Yovier/diagnostico-rentabilidad)**
+  **[Landing Page Source Code](https://github.com/Yovier/diagnostico-rentabilidad/blob/main/Business_Profitability_Diagnostic_Landing_Page_Source.ipynb)**
+  **[Diagnostic Tool Source Code](https://github.com/Yovier/diagnostico-rentabilidad/blob/main/Business_Profitability_Diagnostic_Tool_Source.ipynb)**
 
 </div>
 
